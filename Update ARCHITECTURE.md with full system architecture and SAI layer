@@ -1,0 +1,181 @@
+# Architecture — Millings Method™
+
+The Millings Method™ is a layered system integrity architecture designed to control how signal becomes state, how state drives execution, and how execution remains aligned with reality.
+
+This document expands the system layers defined in the README into a formal architecture.
+
+---
+
+## Architectural Principle
+
+Admissibility is not a single decision point.
+
+It is a constraint that must persist across:
+
+- signal  
+- state  
+- execution  
+- reality  
+
+---
+
+👉 System integrity depends on continuity across layers, not isolated control points.
+
+---
+
+## Layered Architecture
+
+### 1. Institutional Admission
+
+External systems, policies, or infrastructures that influence what signals are allowed to enter the system.
+
+Examples:
+- regulatory systems  
+- external APIs  
+- data governance frameworks  
+
+---
+
+### 2. Shared Admissibility Infrastructure (SAI)
+
+The cross-system layer that ensures multiple systems operate on a shared admissible reality.
+
+Functions:
+- aligns signal across systems  
+- maintains shared state integrity  
+- prevents divergence between systems  
+
+---
+
+👉 Without SAI, systems remain internally coherent but drift from each other over time.
+
+---
+
+### 3. Signal Admissibility Layer (SAL)
+
+Controls what is allowed to enter the system as signal.
+
+Functions:
+- identity resolution  
+- domain separation  
+- provenance validation  
+- collision detection (HFI protocol)  
+- quarantine of unverifiable inputs  
+
+---
+
+👉 SAL prevents mis-specified signal from becoming state.
+
+---
+
+### 4. State Formation
+
+Transforms admissible signal into structured system state.
+
+Risks:
+- state contamination  
+- persistence of invalid assumptions  
+
+---
+
+### 5. Execution Governance
+
+Controls how state is translated into action.
+
+Functions:
+- constraint enforcement  
+- authorization checks  
+- bounded execution  
+
+---
+
+---
+
+### 6. Cybernetic Feedback
+
+Monitors system behavior and feeds outcomes back into the system.
+
+Functions:
+- adaptation  
+- correction  
+- stabilization  
+
+---
+
+---
+
+### 7. Reality Alignment (CPS)
+
+Ensures system behavior remains aligned with real-world conditions.
+
+Functions:
+- external validation  
+- real-world consistency checks  
+- correction of drift  
+
+---
+
+---
+
+### 8. Traceability & Cleanup (AATP / BTP)
+
+Tracks and maintains system integrity over time.
+
+Functions:
+- traceability of decisions  
+- cleanup of invalid state  
+- rollback and correction  
+
+---
+
+---
+
+## System Integrity Condition
+
+A system is considered stable when:
+
+- signal is admissible  
+- state remains valid  
+- execution is bounded  
+- outcomes align with reality  
+
+---
+
+👉 If any layer breaks, the system drifts.
+
+---
+
+## Architectural Insight
+
+Most systems:
+
+- control execution  
+- optimize behavior  
+- maintain internal consistency  
+
+---
+
+The Millings Method™:
+
+👉 controls the conditions under which systems are allowed to form state  
+👉 and ensures those conditions persist across system boundaries  
+
+---
+
+## Direction
+
+The architecture extends from:
+
+👉 single-system integrity  
+to  
+👉 multi-system coordination through SAI  
+
+---
+
+This establishes a foundation for:
+
+- distributed system alignment  
+- cross-system governance  
+- shared reality maintenance at scale  
+
+---
