@@ -1,3 +1,9 @@
+# millings-method-core
+
+Governance-first architecture for pre-execution control, authorship verification, and structural integrity in AI systems.
+
+---
+
 # Millings Method™
 
 A system integrity architecture for governing how signal becomes state, how state drives execution, and how execution remains aligned with reality across systems.
@@ -44,7 +50,8 @@ The Millings Method™ introduces a layered architecture that:
 
 ---
 
-## System LayersInstitutional Admission (external systems)
+## System Layers 
+Institutional Admission (external systems)
 ↓
 Shared Admissibility Infrastructure (SAI)
 ↓
@@ -58,7 +65,8 @@ Cybernetic Feedback
 ↓
 Reality Alignment (CPS)
 ↓
-Traceability & Cleanup (AATP / BTP)---
+Traceability & Cleanup (AATP / BTP)
+---
 
 ## Key Distinction
 
