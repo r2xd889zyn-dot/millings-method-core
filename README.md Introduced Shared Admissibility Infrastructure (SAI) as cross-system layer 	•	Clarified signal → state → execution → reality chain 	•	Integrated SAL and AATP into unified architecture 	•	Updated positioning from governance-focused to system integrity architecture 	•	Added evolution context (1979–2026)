@@ -2,57 +2,161 @@
 Governance-first architecture for pre-execution control, authorship verification, and structural integrity in AI systems
 # Millings Method™
 
-Canonical architecture map and documentation hub for the Millings Layering Method™ and related governance, authorship, and structural integrity systems.
+# Millings Method™
 
-The Millings Method™ is a governance-first architecture that enforces human-authored authority, structural integrity, and pre-execution control across automated systems.
-
----
-
-## System ArchitectureMillings Method
-│
-├─ Governance Framework
-│  → millings-method-governance-framework
-│
-├─ GuardianOS
-│  → guardianos
-│
-├─ Constraint Layer
-│  → millings-constraint-layer
-│
-├─ Execution Gate
-│  → millings-gate
-│
-├─ Structural Integrity Reference
-│  → mmct-structural-integrity-reference
-│
-└─ Evaluation Systems
-→ mlag-eval---
-
-## Purpose
-
-- human authorship traceability  
-- structural integrity in AI systems  
-- pre-execution authorization controls  
-- constraint-governed automated decision pathways  
-- transparent governance layers  
+A system integrity architecture for governing how signal becomes state, how state drives execution, and how execution remains aligned with reality across systems.
 
 ---
 
-## Governance Principle
+## Core Principle
 
-**provenance → chronology → constraint validation → execution decision**
+Systems do not fail at execution.
 
-Execution occurs only when:
-- authority is verified  
-- provenance is traceable  
-- constraints are satisfied  
+They fail at what they were allowed to treat as signal.
 
 ---
 
-## Core Concept
+## Problem
 
-AI systems can generate outputs.
+Modern systems:
 
-They cannot determine whether outputs are authorized.
+- optimize execution  
+- enforce decisions  
+- maintain internal consistency  
 
-The Millings Method™ introduces a governance layer that enforces permission before execution.
+But they assume:
+
+👉 the signal entering the system is already valid  
+
+When that assumption fails:
+
+- signal becomes mis-specified  
+- state forms incorrectly  
+- execution stabilizes error  
+- systems remain coherent—but wrong  
+
+---
+
+## Approach
+
+The Millings Method™ introduces a layered architecture that:
+
+- constrains what is allowed to become signal  
+- preserves admissibility through state formation  
+- enforces boundaries during execution  
+- verifies alignment with real-world conditions  
+
+---
+
+## System LayersInstitutional Admission (external systems)
+↓
+Shared Admissibility Infrastructure (SAI)
+↓
+Signal Admissibility Layer (SAL)
+↓
+State Formation
+↓
+Execution Governance
+↓
+Cybernetic Feedback
+↓
+Reality Alignment (CPS)
+↓
+Traceability & Cleanup (AATP / BTP)---
+
+## Key Distinction
+
+Most systems:
+
+👉 govern behavior after state exists  
+
+The Millings Method™:
+
+👉 governs what is allowed to become state—and ensures it remains valid over time  
+
+---
+
+## Shared Admissibility Infrastructure (SAI)
+
+SAI is the cross-system layer that maintains a common, enforceable reference for what is admissible as signal across multiple systems.
+
+It ensures:
+
+- systems operate on a shared admissible signal  
+- state remains aligned across systems  
+- execution remains grounded in a common reality  
+
+---
+
+👉 Without SAI, systems remain internally coherent but diverge from each other over time.
+
+---
+
+## Signal Admissibility Layer (SAL)
+
+SAL governs what is allowed to enter a system as signal.
+
+It includes:
+
+- identity resolution  
+- domain separation  
+- provenance validation  
+- collision detection (HFI protocol)  
+- quarantine of unverifiable inputs  
+
+---
+
+👉 SAL prevents mis-specified signal from becoming state.
+
+---
+
+## System Integrity Chain
+
+Admissibility is not a checkpoint.
+
+It is a continuous constraint across:
+
+- signal  
+- state  
+- execution  
+- reality  
+
+---
+
+👉 If any layer breaks, the system drifts.
+
+---
+
+## Evolution
+
+The Millings Method™ emerged through long-term observation (1979–2026), identifying recurring failure patterns in how systems:
+
+- interpret inputs  
+- form state  
+- and drift from reality over time  
+
+---
+
+It was:
+
+- recognized  
+- tested  
+- refined  
+- and formalized  
+
+---
+
+## Scope
+
+This architecture applies across:
+
+- AI systems  
+- distributed systems  
+- cyber-physical systems  
+- institutional decision systems  
+
+---
+
+## Status
+
+Active development and formalization.
