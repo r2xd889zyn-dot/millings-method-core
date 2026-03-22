@@ -46,26 +46,27 @@ The Millings Method™ introduces a layered architecture that:
 - constrains what is allowed to become signal  
 - preserves admissibility through state formation  
 - enforces boundaries during execution  
-- verifies alignment with real-world conditions  
+- verifies alignment with real-world 
 
----
 
-## System Layers Institutional Admission (external systems)
-↓
-Shared Admissibility Infrastructure (SAI)
-↓
-Signal Admissibility Layer (SAL)
-↓
-State Formation
-↓
-Execution Governance
-↓
-Cybernetic Feedback
-↓
-Reality Alignment (CPS)
-↓
-Traceability & Cleanup (AATP / BTP)
----
+
+## System Layers
+
+    Institutional Admission (external systems)
+    ↓
+    Shared Admissibility Infrastructure (SAI)
+    ↓
+    Signal Admissibility Layer (SAL)
+    ↓
+    State Formation
+    ↓
+    Execution Governance
+    ↓
+    Cybernetic Feedback
+    ↓
+    Reality Alignment (CPS)
+    ↓
+    Traceability & Cleanup (AATP / BTP)
 
 ## Key Distinction
 
