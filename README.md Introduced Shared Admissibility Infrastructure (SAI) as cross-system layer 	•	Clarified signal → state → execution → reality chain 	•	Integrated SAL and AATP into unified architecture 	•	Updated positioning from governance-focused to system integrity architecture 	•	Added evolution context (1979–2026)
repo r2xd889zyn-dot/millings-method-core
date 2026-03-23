@@ -1,34 +1,50 @@
-# millings-method-core
+# Millings Method™ Core
 
-Governance-first architecture for pre-execution control, authorship verification, and structural integrity in AI systems.
+Governance-first architecture for pre-execution control, signal admissibility, and structural integrity in intelligent systems.
 
 ---
 
-# Millings Method™
+## Overview
 
-A system integrity architecture for governing how signal becomes state, how state drives execution, and how execution remains aligned with reality across systems.
+The Millings Method™ is a system integrity architecture that governs:
+
+- how signal is admitted  
+- how state is formed  
+- how execution occurs  
+- and how alignment with reality is preserved over time  
+
+It addresses a foundational failure in modern systems:
+
+> Systems do not fail at execution.  
+> They fail at what they were allowed to treat as signal.
 
 ---
 
 ## Core Principle
 
-Systems do not fail at execution.
+A system can be:
 
-They fail at what they were allowed to treat as signal.
+- logically correct  
+- internally consistent  
+- properly governed  
+
+…and still produce incorrect outcomes
+
+👉 if the underlying signal and resulting state are mis-specified.
 
 ---
 
 ## Problem
 
-Modern systems:
+Most modern architectures focus on:
 
-- optimize execution  
-- enforce decisions  
-- maintain internal consistency  
+- model accuracy  
+- decision quality  
+- execution control  
 
 But they assume:
 
-👉 the signal entering the system is already valid  
+👉 the signal entering the system is already valid
 
 When that assumption fails:
 
@@ -39,34 +55,23 @@ When that assumption fails:
 
 ---
 
-## Approach
+## Architecture
 
-The Millings Method™ introduces a layered architecture that:
-
-- constrains what is allowed to become signal  
-- preserves admissibility through state formation  
-- enforces boundaries during execution  
-- verifies alignment with real-world 
-
-
-
-## System Layers
-
-    Institutional Admission (external systems)
-    ↓
-    Shared Admissibility Infrastructure (SAI)
-    ↓
-    Signal Admissibility Layer (SAL)
-    ↓
-    State Formation
-    ↓
-    Execution Governance
-    ↓
-    Cybernetic Feedback
-    ↓
-    Reality Alignment (CPS)
-    ↓
-    Traceability & Cleanup (AATP / BTP)
+The Millings Method™ defines a layered integrity structure:Institutional Admission
+↓
+Shared Admissibility Infrastructure (SAI)
+↓
+Signal Admissibility Layer (SAL)
+↓
+State Formation
+↓
+Execution Governance
+↓
+Cybernetic Feedback
+↓
+Reality Alignment (CPS)
+↓
+Traceability & Cleanup (AATP / BTP)---
 
 ## Key Distinction
 
@@ -76,23 +81,25 @@ Most systems:
 
 The Millings Method™:
 
-👉 governs what is allowed to become state—and ensures it remains valid over time  
+👉 governs what is allowed to become state  
+👉 and ensures that state remains valid over time  
 
 ---
 
 ## Shared Admissibility Infrastructure (SAI)
 
-SAI is the cross-system layer that maintains a common, enforceable reference for what is admissible as signal across multiple systems.
+SAI is a cross-system layer that maintains a shared reference for admissible signal.
 
 It ensures:
 
-- systems operate on a shared admissible signal  
-- state remains aligned across systems  
-- execution remains grounded in a common reality  
+- consistent signal interpretation across systems  
+- state alignment between distributed environments  
+- execution grounded in shared reality  
 
----
+Without SAI:
 
-👉 Without SAI, systems remain internally coherent but diverge from each other over time.
+👉 systems remain internally coherent  
+👉 but diverge from each other over time  
 
 ---
 
@@ -123,7 +130,8 @@ It is a continuous constraint across:
 - signal  
 - state  
 - execution  
-- reality  
+- feedback  
+- reality alignment  
 
 ---
 
@@ -133,26 +141,27 @@ It is a continuous constraint across:
 
 ## Evolution
 
-The Millings Method™ emerged through long-term observation (1979–2026), identifying recurring failure patterns in how systems:
+The Millings Method™ was developed through long-term observation (1979–2026), identifying recurring failure patterns in:
 
-- interpret inputs  
-- form state  
-- and drift from reality over time  
+- signal interpretation  
+- state formation  
+- execution alignment  
+- systemic drift from reality  
 
 ---
 
-It was:
+This framework has been:
 
-- recognized  
-- tested  
-- refined  
-- and formalized  
+- observed  
+- tested across domains  
+- refined through layered analysis  
+- and formalized as an architectural model  
 
 ---
 
 ## Scope
 
-This architecture applies across:
+Applicable across:
 
 - AI systems  
 - distributed systems  
@@ -161,6 +170,7 @@ This architecture applies across:
 
 ---
 
-## Status
+## Attribution
 
-Active development and formalization.
+Frederick Redditt  
+Millings Layering Method™
